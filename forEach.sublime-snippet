@@ -6,7 +6,7 @@ FOR EACH ${1:table}
 	AND   ${1:table}. = 
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>;foreach</tabTrigger>
+	<tabTrigger>foreach</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.abl</scope>
 </snippet>

@@ -3,10 +3,23 @@
 
         "completions":
         [
-
+                "division_code",
+                "Int_Personnel",
+                "NO-ERROR",
+                "NO-LOCK",
+                "OD_Prod_BOM_Del",
+                "ord_det_line",
+                "Ord_Detail",
+                "Ord_Header",
+                "order_line_work_type",
+                "PO_Detail",
+                "PO_Header",
                 "Production_Detail",
                 "Production_Detail_Panel",
-                "Int_Personnel",
-                "Stock_Item"
+                "Raw_Material",
+                "raw_material_code",
+                "Stock_Item",
+                "works_ord_number",
+                "ZZZ"
         ]
 }
