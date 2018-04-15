@@ -1,0 +1,12 @@
+{
+        "scope": "source.abl",
+
+        "completions":
+        [
+
+                "Production_Detail",
+                "Production_Detail_Panel",
+                "Int_Personnel",
+                "Stock_Item"
+        ]
+}
