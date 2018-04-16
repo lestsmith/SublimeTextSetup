@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+TEMP-TABLE ${1:temptableName}:WRITE-XML("FILE", "W:\OutputXML.xml", FALSE).
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>xml</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.abl</scope>
+</snippet>
